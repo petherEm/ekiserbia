@@ -139,7 +139,7 @@ const MobileEntry8 = () => {
         <>
             <NavBar>
                 <Logo>
-                    <Image src={RaiPayLogo} />
+                    <Image src={EKIlogo} />
                 </Logo>
                 <NavMenu>
                     <div>Hi, Piotr!</div>

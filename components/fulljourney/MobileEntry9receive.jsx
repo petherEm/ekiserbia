@@ -4,6 +4,8 @@ import Link from 'next/link'
 import Image from 'next/image'
 import RaiPayLogo from '../../public/img/raipaypng.png'
 import CreditCardIcon from '@mui/icons-material/CreditCard';
+import EKIlogo from '../../public/img/EKIlogo.png'
+
 
 
 const Wrapper = styled.div`
@@ -140,7 +142,7 @@ const MobileEntry9receive = () => {
         <>
             <NavBar>
                 <Logo>
-                    <Image src={RaiPayLogo} />
+                    <Image src={EKIlogo} />
                 </Logo>
                 <NavMenu>
                     <div>Hi, Piotr!</div>

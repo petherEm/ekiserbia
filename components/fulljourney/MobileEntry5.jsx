@@ -142,7 +142,7 @@ const MobileEntry5 = () => {
         <>
             <NavBar>
                 <Logo>
-                    <Image src={RaiPayLogo} />
+                    <Image src={EKIlogo} />
                 </Logo>
                 <NavMenu>
                     <div>Hello!</div>
